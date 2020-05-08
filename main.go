@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/buildkite/agent/v3/agent"
-	"github.com/buildkite/agent/v3/clicommand"
+	"github.com/derekmarcotte/agent/v3/agent"
+	"github.com/derekmarcotte/agent/v3/clicommand"
 	"github.com/urfave/cli"
 )
 

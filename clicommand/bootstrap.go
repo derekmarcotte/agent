@@ -9,7 +9,7 @@ import (
 	"syscall"
 
 	"github.com/buildkite/agent/v3/bootstrap"
-	"github.com/buildkite/agent/v3/cliconfig"
+	"github.com/derekmarcotte/agent/v3/cliconfig"
 	"github.com/buildkite/agent/v3/experiments"
 	"github.com/buildkite/agent/v3/logger"
 	"github.com/urfave/cli"

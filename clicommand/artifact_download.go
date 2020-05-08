@@ -3,7 +3,7 @@ package clicommand
 import (
 	"github.com/buildkite/agent/v3/agent"
 	"github.com/buildkite/agent/v3/api"
-	"github.com/buildkite/agent/v3/cliconfig"
+	"github.com/derekmarcotte/agent/v3/cliconfig"
 	"github.com/urfave/cli"
 )
 
